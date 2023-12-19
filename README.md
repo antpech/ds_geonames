@@ -3,20 +3,22 @@
 
 **Цель:**
 
--Сопоставление произвольных гео названий с унифицированными именами geonames для внутреннего использования Карьерным центром
+Сопоставление произвольных гео названий с унифицированными именами geonames для внутреннего использования Карьерным центром
 
 
 **Основные файлы**
-citysearch.py - модуль с классом citysearch, используемый для поиска городов
-City Similarity.ipynb - тетрадка Jupyter с описанием и примерами использования
+- citysearch.py - модуль с классом citysearch, используемый для поиска городов
+- City Similarity.ipynb - тетрадка Jupyter с описанием и примерами использования
 
 **Дополнительные файлы, который необходимо загрузить**
-allCountries.txt
-alternateNamesV2.txt
-countryInfo.txt
-admin1CodesASCII.txt
+- allCountries.txt
+- alternateNamesV2.txt
+- countryInfo.txt
+- admin1CodesASCII.txt
 
 Загрузить можно по ссылке: https://download.geonames.org/export/dump/
+
+
 
 **Используемый стек технологий:**
 
